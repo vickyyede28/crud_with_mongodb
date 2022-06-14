@@ -16,7 +16,7 @@ db.on('open',(err)=>{
 })
 
 app.listen(port,()=>{
-    console.log(`your app is running on PORT :${port}`);
+    console.log(`your app is running on your PORT  :${port}`);
 })
 
 
